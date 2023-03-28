@@ -10,3 +10,7 @@ has been specifically curated to suit the end user level by providing three diff
 5. After the user is confident in his/her solution, the program automatically checks with the answer, which has been obtained in the back end by using the algorithmic-technique of backtracking, which is used in many intellect based programs like chess etc.The approach to backtracking is similar to how the human brain solves the problem.
 
 So this program enhances the experience of playing the brilliant, ancient game of Sudoku.
+
+# Tech Stack
+1. Python
+2. MySQL
