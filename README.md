@@ -1,4 +1,4 @@
-# Soduku-Solver-and-Generator
+# Sudoku-Solver-and-Generator
 
 This project generates, solves and provides the user a platform to dynamically enjoy the game of sudoku in an interactive game format.The sudoku generator
 has been specifically curated to suit the end user level by providing three difficulty levels (Easy,Medium and Hard). 
